@@ -1,10 +1,5 @@
 Sensorlab.io documentations.
 ============================
 
-- REST API:
-
-    http://docs.sensorlab.io/api/
-
-- Javascript SDK:
-
-    http://docs.sensorlab.io/javascript-sdk/
+- `REST API <https://docs.sensorlab.io/api/>`_
+- `Javascript SDK <https://docs.sensorlab.io/javascript-sdk/>`_
